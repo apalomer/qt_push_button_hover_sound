@@ -1,0 +1,6 @@
+*~
+lib
+*.so*
+*.user*
+bin
+build*

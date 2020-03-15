@@ -1,0 +1,5 @@
+<RCC>
+    <qresource prefix="/">
+        <file alias="push_button.mp3">push_button.mp3</file>
+    </qresource>
+</RCC>
