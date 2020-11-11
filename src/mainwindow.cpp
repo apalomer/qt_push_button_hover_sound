@@ -33,7 +33,7 @@ bool MainWindow::eventFilter(QObject* watched, QEvent* event)
 
       player_ = new QMediaPlayer(this);
       player_->setPlaylist(playlist);
-      player_->setVolume(50);
+      player_->setVolume(100);
       player_->play();
     }
   }
